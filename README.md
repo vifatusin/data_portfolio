@@ -1,6 +1,6 @@
-# Victoria Ifatusin's Data & Writing Portfolio
+# Victoria Ifatusin's Portfolio
 
-Hello! This repository contains all of my experience as a reporter at the [Howard Center for Investigative Journalism](https://merrill.umd.edu/howard-center-for-investigative-journalism), freelancer and student, while attending the Philip Merrill College of Journalism at the University of Maryland. 
+Hello! This repository contains my more recent experience as a reporter at the [Howard Center for Investigative Journalism](https://merrill.umd.edu/howard-center-for-investigative-journalism), freelancer and student, while attending the Philip Merrill College of Journalism at the University of Maryland. 
 
 I've also linked stories I've written and projects I've collobarated on, as well as my full resume and website.
 
@@ -35,14 +35,38 @@ I've also linked stories I've written and projects I've collobarated on, as well
 - Tools Used: R, Datawrapper 
 - [Link to the entire repo.](https://github.com/mary-dalrymple/data_journalism_2021_fall/tree/main/major_assignments/data_analysis)
 
-## Writing
-- 
+## Audio
 
-## To see all of this again, as well as my audio and visual stuff, go to my website:
+**[UMD's USAS Town Hall for $15 Minimum Wage](https://soundcloud.com/victoria-a-ifatusin/umds-usas-town-hall-for-15-minimum-wage-wmuc-news?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+- Fully recorded, edited and produced the package.
+- Published in WMUC News at the Univerisity of Maryland, _December 2021_
+- [Link to the script.](https://docs.google.com/document/d/1HRnNyRtkkMAB2OTTwYtEcCcfjeub58GVYnJ4gjC6j1U/edit?usp=sharing)
+
+**[Good Neighbor Day's 10th Anniversary](https://soundcloud.com/victoria-a-ifatusin/good-neighbor-days-10th-anniversary-wmuc-news?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)** 
+- Fully recorded, edited and produced the package.
+- Published in WMUC News at the University of Maryland, _November 2021_
+- [Link to the script.](https://docs.google.com/document/d/1bud9kSBoa8joW0uSyzSyBFTQxoxh3lbChVuQUjHABVU/edit?usp=sharing)
+
+## Just Writing
+
+**[Scientific Games’ lottery playbook succeeded, then spread](https://cnsmaryland.org/2022/07/01/scientific-games-lottery-playbook-succeeded-then-spread/)**
+- Published in Capital News Service through the Howard Center for Investigative Journalism, _February - July 2022_
+
+**[State lottery advertising tells players half of the story](https://cnsmaryland.org/2022/07/01/state-lottery-advertising-tells-players-half-of-the-story/)**
+- Published in Capital News Service through the Howard Center for Investigative Journalism, _February - July 2022_
+
+**[Black UMD students express concerns about mental health in town hall meeting](https://www.blackexplosionnews.com/blog/2021/12/2/black-umd-students-express-concerns-about-mental-health-in-town-hall-meeting)**
+- Published in The Black Explosion at the University of Maryland, _December 2021_
+
+**[Newspapers falsely reported Slocum Massacre as a race revolt](https://lynching.cnsmaryland.org/2021/11/07/slocum-massacre-texas-newspapers/)**
+  - Sidebar: **[On a mission to shed light on the Slocum Massacre](https://lynching.cnsmaryland.org/2021/11/07/slocum-massacre-east-texas/)**
+- Published in Capital News Service through the Howard Center for Investigative Journalism, _June - November 2021_
+
+## To see this and older clips, check out my website:
 https://www.victoriaifatusin.com/
 
 ## Resume
-
+[Click here!](https://github.com/vifatusin/portfolio/blob/main/resume_may23.pdf)
 
 ## About Me
 
