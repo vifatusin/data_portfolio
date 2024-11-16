@@ -1,9 +1,5 @@
 # Victoria Ifatusin's Portfolio
 
-Hello! This repository contains my more recent experience as a reporter at the [Howard Center for Investigative Journalism](https://merrill.umd.edu/howard-center-for-investigative-journalism), freelancer and student, while attending the Philip Merrill College of Journalism at the University of Maryland. 
-
-I've also linked stories I've written and projects I've collobarated on, as well as my full resume and website.
-
 ## Data Analysis & Visualization
 
 **[Analysis and Mapping of EPA Air Pollution Affecting Neurological Health Per U.S. County](https://www.edpost.com/stories/what-is-environmental-activism-youth-of-color-creating-justice)**
